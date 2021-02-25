@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body bgcolor=#ffffff width=100 height=100>
+<body bgcolor=#ffffff width=120 height=120>
     <font face="futura">
         <h1 align="center">Welcome, Devanshu</h1>
         <!-- insert text-->
