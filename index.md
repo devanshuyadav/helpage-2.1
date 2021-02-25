@@ -110,11 +110,9 @@
                             width=110 alt="collegegmail"></a>
                     <font size=3><br>College Mail</font>
                 </td>
-
             </tr>
         </table>
         <!-- BOOKMARKS-->
-
         <table align="center">
             <th colspan=2>
                 <h3>Marked articles to Read:</h3>
@@ -180,7 +178,6 @@
                         <li>
                             <a href="https://tailblocks.cc/">Use in web dev</a>
                         </li>
-
                     </ul>
                 </td>
             </tr>
