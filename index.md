@@ -146,6 +146,9 @@
                                 Web Dev
                                 course</a>
                         </li>
+                        <li>
+                            <a href="https://www.codechef.com/ioi/2021/resources">ICO codechef Material</a>
+                        </li>
                     </ul>
                 </td>
                 <td>
