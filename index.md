@@ -17,7 +17,7 @@
                             height=80 width=80 alt="VTOP"></a>
                 </td>
                 <td align="center">
-                    <a href="https://classroom.google.com/u/1/c/MjY5NTg5MDY4MTIw" target="_blank"><img
+                    <a href="https://classroom.google.com/u/1/h" target="_blank"><img
                             src="https://www.bostonspa.leeds.sch.uk/bsa-assets/uploads/2020/12/google-classroom-logo.png"
                             height=110 width=110 alt="Google Classroom"></a>
                 </td>
