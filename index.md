@@ -107,6 +107,13 @@
                     <font size=3><br>College Mail</font>
                 </td>
             </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://calendar.google.com/calendar/u/0/r/week" target="_blank"><img
+                            src="https://www.techadvisor.co.uk/cmsdata/features/3634463/how-to-open-ics-vcs-files-in-gcal-header_thumb1200_4-3.png" height=110
+                            width=150 alt="calendar"></a>
+                </td>
+            </tr>
         </table>
         <!-- BOOKMARKS-->
         <table align="center">
@@ -148,6 +155,9 @@
                         </li>
                         <li>
                             <a href="https://www.codechef.com/ioi/2021/resources">ICO codechef Material</a>
+                        </li>
+                        <li>
+                            <a href="https://www.gatevidyalay.com/tag/karnaugh-map-questions-and-answers-pdf/">K-Map</a>
                         </li>
                     </ul>
                 </td>
