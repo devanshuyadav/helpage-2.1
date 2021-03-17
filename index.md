@@ -190,28 +190,6 @@
                     </ul>
                 </td>
             </tr>
-            <tr>
-                <td>
-                    <h3>Personalities:</h3>
-                    <ul>
-                        <li>
-                            <a href="https://www.16personalities.com/infj-personality">Devanshu</a>
-                        </li>
-                        <li>
-                            <a href="https://www.16personalities.com/enfj-personality">Om singh</a>
-                        </li>
-                        <li>
-                            <a href="https://www.16personalities.com/entj-personality">Meenakshi</a>
-                        </li>
-                        <li>
-                            <a href="https://www.16personalities.com/infp-personality">Aryan</a>
-                        </li>
-                        <li>
-                            <a href="https://www.16personalities.com/enfp-personality">Akhil</a>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
         </table>
     </font>
 </body>
