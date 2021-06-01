@@ -6,6 +6,7 @@
 </head>
 <body>
     <font face="futura">
+    <h3 style="color:#d8d8d8;" align="center">*Note : You're currently on the oldest version of Helpage. For the most recent site, <a href="https://devanshuyadav.github.io/Helpage/">Click here</a>*</h3>
         <h1 align="center">Welcome, Devanshu</h1>
         <!-- insert text-->
         <table cellspacing=30 align="center">
